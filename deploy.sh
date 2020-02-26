@@ -2,7 +2,7 @@
 npm run docs:build
 
 
-cd docs/.vuepress/dist
+cd F:\node\my-blog\public
 
 git init
 git add -A
