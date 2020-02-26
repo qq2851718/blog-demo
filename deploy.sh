@@ -1,7 +1,4 @@
 
-npm run docs:build
-
-
 cd F:\node\my-blog\public
 
 git init
